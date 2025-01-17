@@ -1,7 +1,5 @@
 body {
-    margin: auto;
-    height: auto;
-    width: auto;
+    margin: 2;
     font-family: "Italiana", serif;
     background-color: whitesmoke;
 }
@@ -23,4 +21,24 @@ li {
     padding: 15px;
     font-size: 15px;
     font-weight: bold;
+}
+
+h2 {
+    margin-left: 220px;
+    margin-top: 150px;
+}
+p {
+    margin-left: 220px;
+   
+}
+button {
+    margin-left: 340px;
+
+}
+img {
+    width: auto;
+    height: 500px;
+    margin-right: 290px;
+    margin-top: -80px;
+    float: right;
 }
